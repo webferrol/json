@@ -1,0 +1,14 @@
+{
+   "formacion_academica":[
+      {
+         "titulo":"Técnico Superior en diseño de aplicaciones informáticas",
+         "fecha":"2003",
+         "centro":"Instituto IES Rodolfo Ucha Piñeiro"
+      },
+      {
+         "titulo":"Licenciado en Filología clásica",
+         "fecha":"1999",
+         "centro":" Facultad de Filología Clásica de Santiago de Compostela"
+      }
+   ]
+}
