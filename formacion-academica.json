@@ -8,7 +8,8 @@
       {
          "titulo":"Licenciado en Filología clásica",
          "fecha":"1999",
-         "centro":" Facultad de Filología Clásica de Santiago de Compostela"
+         "centro":"Facultad de Filología Clásica de Santiago de Compostela"
       }
-   ]
+   ],
+   "etiquetas_profesionales":["Informático", "Programador","Desarrollador web","Gestor de contenidos","Analista SEO","Web 2.0","Formador","Educador"]
 }
