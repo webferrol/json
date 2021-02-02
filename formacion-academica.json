@@ -12,10 +12,10 @@
       }
    ],
    "conocimientos":[
-      {"id": 1, "conocimiento":"PHP", "nivel": "Avanzado"},
-      {"id": 2, "conocimiento":"JavaScript", "nivel": "Avanzado"},
+      {"id": 1, "conocimiento":"PHP", "nivel": "Alto"},
+      {"id": 2, "conocimiento":"JavaScript", "nivel": "Alto"},
       {"id": 3, "conocimiento":"jQuery", "nivel": "Medio"},
-      {"id": 4, "conocimiento":"MySQl", "nivel": "Alto"},
+      {"id": 4, "conocimiento":"MySQL", "nivel": "Alto"},
       {"id": 5, "conocimiento":"Vuejs", "nivel": "Medio"}
    ],
    "presentacion":["Me presento. Soy un desarrollador informático de mente inquieta con grandes ideas en el ámbito de la progamación. Especialista en el desarrollo web e interesado en el análisis SEO.","Me encanta mi labor en el ámbito de la divulgación por lo cual he ampliado mis horizontes al ámbito de la educación y formación en el desarrollo de aplicaciones web.","También como gestor de contenidos web soy muy puntilloso con la divulgación y la elaboración de publicaciones en la red."],
