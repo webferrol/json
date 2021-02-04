@@ -83,8 +83,7 @@
         "empresa": "Academia Capuchino",
         "lugar": "Ferrol",
         "fecha": "2005-2007"
-      },
-     
+      },     
    ],
    "paginas":[
    	{"id": 1, "bool": true, "pagina": "https://muinhodovento.gal/"},
