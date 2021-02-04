@@ -1,0 +1,101 @@
+{
+   "experiencias":[
+      {
+        "titulo": "Formador ocupacional de diseño y programación WEB (MF0491_3)",
+        "puesto": "Profesor",
+        "empresa": "ForEmprego",
+        "lugar": "Lugo",
+        "fecha": "2020"
+      },
+      {
+        "titulo": "Formador ocupacional de diseño y programación WEB (MF0491_3)",
+        "puesto": "Profesor",
+        "empresa": "CARAC",
+        "lugar": "Oviedo",
+        "fecha": "2019"
+      },
+      {
+        "titulo": "Programador WEB",
+        "puesto": "Programador",
+        "empresa": "Englishpanish",
+        "lugar": "Ferrol",
+        "fecha": "2019"
+      },
+      {
+        "titulo": "FP DAW (Desarrollo de aplicaciones WEB). Módulos: programación, bases de datos, lenguajes de marcas, sistemas, entornos de desarrollo",
+        "puesto": "Profesor",
+        "empresa": "AFA Formación",
+        "lugar": "Oviedo",
+        "fecha": "2018-2019"
+      },
+      {
+        "titulo": "Formador ocupacional de diseño WEB",
+        "puesto": "Profesor",
+        "empresa": "Computer 3 SLU",
+        "lugar": "Lugo",
+        "fecha": "2018"
+      },
+      {
+        "titulo": "Formador ocupacional de diseño WEB",
+        "puesto": "Profesor",
+        "empresa": "ForEmprego",
+        "lugar": "Lugo",
+        "fecha": "2017"
+      },
+      {
+        "titulo": "Programador WEB",
+        "puesto": "Programador",
+        "empresa": "Englishpanish",
+        "lugar": "Ferrol",
+        "fecha": "2016"
+      },
+      {
+        "titulo": "Formador ocupacional de diseño WEB (MF0491_3)",
+        "puesto": "Profesor",
+        "empresa": "ForEmprego",
+        "lugar": "Lugo",
+        "fecha": "2015"
+      },
+      {
+        "titulo": "Formador ocupacional",
+        "puesto": "Profesor",
+        "empresa": "FENXA formación S.L",
+        "lugar": "Carballo",
+        "fecha": "2014"
+      },
+      {
+        "titulo": "Formador ocupacional de ofimática y WEB 2.0 para desempleados (ADGG0208)",
+        "puesto": "Profesor",
+        "empresa": "Academia Einstein",
+        "lugar": "Carballo",
+        "fecha": "2012-2014"
+      },
+      {
+        "titulo": "Programador WEB",
+        "puesto": "Programador",
+        "empresa": "Social LABS NET Solutions",
+        "lugar": "Coruña",
+        "fecha": "2007-2009"
+      },
+      {
+        "titulo": "Profesor informática",
+        "puesto": "Profesor",
+        "empresa": "Academia Capuchino",
+        "lugar": "Ferrol",
+        "fecha": "2005-2007"
+      },
+     
+   ],
+   "paginas":[
+   	{"id": 1, "bool": true, "pagina": "https://muinhodovento.gal/"},
+   	{"id": 2, "bool": true, "pagina": "https://www.mariscostonio.com"},
+   	{"id": 3, "bool": true, "pagina": "http://www.residenciaportanova.com"},
+   	{"id": 4, "bool": true, "pagina": "http://www.carrocerosdelnoroeste.com"},
+   	{"id": 5, "bool": true, "pagina": "http://www.itegal.es"},
+   	{"id": 6, "bool": true, "pagina": "https://www.clubcandepalleiro.com"},
+   	{"id": 7, "bool": false, "pagina": "www.ruraltec.com.es"},
+   	{"id": 8, "bool": true, "pagina": "https://www.englishpanish.com"},
+   	{"id": 9, "bool": true, "pagina": "http://www.recambiosbarreiro.com"},
+   	{"id": 10, "bool": true, "pagina": "http:/www.blaviceservices.com"},
+   ]
+} 
