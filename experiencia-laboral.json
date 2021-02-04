@@ -83,7 +83,7 @@
         "empresa": "Academia Capuchino",
         "lugar": "Ferrol",
         "fecha": "2005-2007"
-      },     
+      }     
    ],
    "paginas":[
    	{"id": 1, "bool": true, "pagina": "https://muinhodovento.gal/"},
@@ -95,6 +95,6 @@
    	{"id": 7, "bool": false, "pagina": "www.ruraltec.com.es"},
    	{"id": 8, "bool": true, "pagina": "https://www.englishpanish.com"},
    	{"id": 9, "bool": true, "pagina": "http://www.recambiosbarreiro.com"},
-   	{"id": 10, "bool": true, "pagina": "http:/www.blaviceservices.com"},
+   	{"id": 10, "bool": true, "pagina": "http:/www.blaviceservices.com"}
    ]
 } 
