@@ -11,6 +11,33 @@
          "centro":"Facultad de Filología Clásica de Santiago de Compostela"
       }
    ],
+   "formacion_complementaria":[
+      {
+         "titulo":"Curso de Formador Ocupacional",
+         "fecha":"2010",
+         "centro":"Centro de Formación Ocupacional de Caranza"
+      },
+      {
+         "titulo":"Curso de Diseño de Páginas Web. Duración: 375 Horas. Ferrol",
+         "fecha":"2009",
+         "centro":"London Institute"
+      },
+      {
+         "titulo":"Curso de redes CNAP de CISCO (examen de preparación para CISCO",
+         "fecha":"2003",
+         "centro":"Plan FIP, Ferrol"
+      },
+      {
+         "titulo":"Curso de Aptitud Pedagógica (CAP)",
+         "fecha":"1988",
+         "centro":"Universidad de Santiago de Compostela"
+      },
+      {
+         "titulo":"Curso de INICIACIÓN e PERFECCIONAMIENTO da LINGUA GALEGA",
+         "fecha":"1988",
+         "centro":"Instituto de Canido Ferrol"
+      }
+   ],
    "conocimientos":[
       {"id": 1, "conocimiento":"PHP", "nivel": "Alto"},
       {"id": 2, "conocimiento":"JavaScript", "nivel": "Alto"},
